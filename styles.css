@@ -21,7 +21,7 @@ body *:after {
   content: "";
   position: absolute;
 }
-
+/* Hair*/
 .hair-1 {
   width: 50vmin;
   height: 22vmin;
